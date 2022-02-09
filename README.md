@@ -19,5 +19,3 @@
 | **CPP06**   | casts: static_cast, reinterpret_cast and dynamic_cast                    | **100**✅     |
 | **CPP07**   | templates                                                                | **100**✅     |
 | **CPP08**   | templated containers, iterators, algorithms                              |              |
-
-[![akurz's 42Project Score](https://badge42.herokuapp.com/api/project/akurz/Cpp-Module-00)](https://github.com/JaeSeoKim/badge42)
