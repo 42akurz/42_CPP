@@ -18,4 +18,4 @@
 | **CPP05**   | repetition and exceptions                                                | **100**✅     |
 | **CPP06**   | casts: static_cast, reinterpret_cast and dynamic_cast                    | **100**✅     |
 | **CPP07**   | templates                                                                | **100**✅     |
-| **CPP08**   | templated containers, iterators, algorithms                              |              |
+| **CPP08**   | templated containers, iterators, algorithms                              | **100**✅     |
